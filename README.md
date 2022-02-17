@@ -13,7 +13,7 @@
 
 <hr>
 
-<a href="https://twitter.com/4rturrrr"><img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
+<a href="https://twitter.com/4rturrrr" target="_blank"><img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
 
 <hr>
 
