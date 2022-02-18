@@ -1,4 +1,4 @@
-# **Artur Mendes**
+# **Artur**
 
 <hr>
 
