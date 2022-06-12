@@ -22,3 +22,8 @@
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
 </div>
+<br>
+<div align="center">
+  🖥️ - Most Used Languages <br><br>
+  <img height="172" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=4RTUrrrr&layout=compact&langs_count=8&theme=radical"/>
+</div>
